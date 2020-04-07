@@ -60,8 +60,4 @@ public class CrawlingService {
 
         return result;
     }
-
-    public static void main(String[] args) {
-//        joupParser("http://www.yes24.com/24/Category/Display/001001003022", "clearfix");
-    }
 }
