@@ -7,6 +7,7 @@ import lombok.*;
 public class Person {
     private String name;
     private String job;
+    private int age;
 
     public Person() {}
 
